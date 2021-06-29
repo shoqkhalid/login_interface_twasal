@@ -2,7 +2,7 @@
 
 
 ## Discription
-this project was an interface for login page
+this project was an interface for a login page
 
 
 ## Technologies used 
